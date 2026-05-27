@@ -1,0 +1,39 @@
+body{
+    background-color: #e9e9e9;
+}
+
+.container{
+    padding: 0;
+}
+
+.fondoimagen{
+    background-color: gold;
+    padding: 20px;
+    height: 100%;
+}
+
+.fondoimagen img{
+    border-radius: 40%;
+}
+
+.fondotitulo{
+    background-color: #48c000;
+    margin: 0;
+    text-align: center;
+}
+
+.fondotexto1{
+    background-color: royalblue;
+    color: rgb(0, 0, 0);
+    margin: 0;
+}
+
+.fondotexto2{
+    background-color: gray;
+    color: rgb(0, 0, 0);
+    margin: 0;
+}
+
+p, h1, h2{
+    margin: 0;
+}
